@@ -1,0 +1,12 @@
+C:\Documents\Sources\Autofac.Demo\Autofac.Impl\obj\Debug\Autofac.Impl.csprojResolveAssemblyReference.cache
+C:\Documents\Sources\Autofac.Demo\Autofac.Impl\bin\Debug\Autofac.Impl.dll
+C:\Documents\Sources\Autofac.Demo\Autofac.Impl\bin\Debug\Autofac.Impl.pdb
+C:\Documents\Sources\Autofac.Demo\Autofac.Impl\bin\Debug\Autofac.Interface.dll
+C:\Documents\Sources\Autofac.Demo\Autofac.Impl\bin\Debug\Autofac.Interface.pdb
+C:\Documents\Sources\Autofac.Demo\Autofac.Impl\obj\Debug\Autofac.Impl.dll
+C:\Documents\Sources\Autofac.Demo\Autofac.Impl\obj\Debug\Autofac.Impl.pdb
+C:\Documents\Sources\Autofac.Demo\Autofac.Impl\bin\Debug\Autofac.Impl.dll.config
+C:\Documents\Sources\Autofac.Demo\Autofac.Impl\bin\Debug\Autofac.Configuration.dll
+C:\Documents\Sources\Autofac.Demo\Autofac.Impl\bin\Debug\Autofac.dll
+C:\Documents\Sources\Autofac.Demo\Autofac.Impl\bin\Debug\Autofac.xml
+C:\Documents\Sources\Autofac.Demo\Autofac.Impl\bin\Debug\Autofac.Configuration.xml
